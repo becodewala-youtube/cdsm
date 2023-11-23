@@ -5,3 +5,5 @@
 ![Screenshot (332)](https://github.com/becodewala-youtube/cdsm/assets/83962116/a8fa1449-2f17-4a6c-a09f-d6dcb30861bb)
 ![Screenshot (333)](https://github.com/becodewala-youtube/cdsm/assets/83962116/80452117-3baa-4dc1-891e-6866ca54e674)
 ![Screenshot (334)](https://github.com/becodewala-youtube/cdsm/assets/83962116/a081f261-8fea-4704-8fae-1d2d7dc7aa87)
+[Payment Report - Print View.pdf](https://github.com/becodewala-youtube/cdsm/files/13451454/Payment.Report.-.Print.View.pdf)
+[Enrollee's Details - Print View.pdf](https://github.com/becodewala-youtube/cdsm/files/13451456/Enrollee.s.Details.-.Print.View.pdf)
